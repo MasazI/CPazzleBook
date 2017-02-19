@@ -12,6 +12,7 @@
 #define PRINT3(x, y, z) std::cout << #x << "=" << x << "," << #y << "=" << y << "," << #z <<"=" << z << std::endl;
 
 void func_1_6(){
+    std::cout << "======= 1.6" << std::endl;
     int x, y, z;
     
     x = y = z = 1;
