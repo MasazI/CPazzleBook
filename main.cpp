@@ -13,6 +13,8 @@
 #include "1_4.h"
 #include "1_5.h"
 #include "1_6.h"
+#include "2_1.h"
+#include "2_2.h"
 
 int main(int argc, const char * argv[]) {
     func_1_1();
@@ -21,4 +23,6 @@ int main(int argc, const char * argv[]) {
     func_1_4();
     func_1_5();
     func_1_6();
+    func_2_1();
+    func_2_2();
 }
